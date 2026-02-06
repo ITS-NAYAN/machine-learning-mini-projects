@@ -1,6 +1,6 @@
 # ML Mini Projects
 
-A collection of small, focused machine learning classification projects built using industry-standard pipelines and best practices.  
+A collection of small, focused machine learning projects built using industry-standard pipelines and best practices.  
 Each project demonstrates end-to-end model development, evaluation, and inference on real-world datasets.
 
 ## Rock vs Mine Classification
